@@ -85,7 +85,7 @@ fun InfoScreen(
                     textAlign = TextAlign.Left
                 )
                 Text(
-                    "Love Foundation",
+                    "The Love Foundation",
                     modifier = Modifier.padding(24.dp).clickable {
                         uriHandler.openUri("https://www.thelovefoundation.com/")
                     },
